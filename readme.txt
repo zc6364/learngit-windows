@@ -4,3 +4,4 @@ Git has a mutable called stage.
 Git tracks changes of files.
 zmw is so and cute.
 YRH is so beautiful.
+zc is cool.
